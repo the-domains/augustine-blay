@@ -1,0 +1,28 @@
+name: Augustine Blay
+favicon: null
+layout_spectrum: 0.7460169026162475
+typography_spectrum: 0.6698349073994905
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.24594738357700408
+  lightness: 0.5034415232948959
+  saturation: 0.9687529054936022
+  rhythmicContrast: 0.7010000259615481
+purpose: []
